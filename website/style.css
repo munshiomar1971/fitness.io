@@ -54,3 +54,30 @@
     height: min-content;
     width: min-content;
 }
+
+#title-2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: #1044ee;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#display {
+    text-align: center;
+    border: 3px solid #000000;
+    padding: 50px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    background-color: #1044ee;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 8px;
+}
